@@ -10,7 +10,7 @@ lng:
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
   country: UA
-  switch_title: Укр
+  switch_title: Uk
   offer:
     title: Мова
     msg_page: Переглянути цю сторінку українською.
@@ -112,8 +112,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Блог
-  button_name: Блог
+  title: Статті
+  button_name: Статті
   upside_down_tabs:
     tab:
       all: Всі
