@@ -50,8 +50,9 @@
 .markdown-style ol,
 .markdown-style li p {
   font-weight: 300;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   line-height: 2.7rem;
+  text-align: justify; /* Add this line to justify text */
 }
 
 .markdown-style a {
