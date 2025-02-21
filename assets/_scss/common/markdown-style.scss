@@ -57,6 +57,9 @@
 
 .markdown-style a {
   font-weight: 400;
+  overflow-wrap: break-word;
+  word-wrap: break-word; /* Fallback for older browsers */
+  white-space: normal;
 }
 
 /* Right-aligned images with text wrapping and max-width */
